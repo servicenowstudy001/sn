@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="INSERT_OR_UPDATE">
+        <experience_category display_value="ワークスペース">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <page_registry display_value="My App">453fb20b58891110302837e7afb3abe7</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-06 06:34:11</sys_created_on>
+        <sys_id>853fb20b068911101a2b21b70741fce4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My App" source="x_869644_my_app">e012b2cb9749111099bff8b3f153afd4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">e012b2cb9749111099bff8b3f153afd4</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_853fb20b068911101a2b21b70741fce4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-06 06:34:11</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+</record_update>

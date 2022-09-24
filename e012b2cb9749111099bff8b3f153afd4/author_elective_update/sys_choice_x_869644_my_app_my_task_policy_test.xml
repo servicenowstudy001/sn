@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="policy_test" table="x_869644_my_app_my_task" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>policy_test</element>
+            <name>x_869644_my_app_my_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-20 04:51:35</sys_created_on>
+            <sys_id>07fd26a3971d111099bff8b3f153afd4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>policy_test</sys_name>
+            <sys_package display_value="My App" source="x_869644_my_app">e012b2cb9749111099bff8b3f153afd4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My App">e012b2cb9749111099bff8b3f153afd4</sys_scope>
+            <sys_update_name>sys_choice_x_869644_my_app_my_task_policy_test</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:51:35</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>policy_test</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UI Policy Mandatory</label>
+            <language>ja</language>
+            <name>x_869644_my_app_my_task</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-20 04:51:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ffd26a3971d111099bff8b3f153afd3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:51:35</sys_updated_on>
+            <value>ui_policy_mandatory</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>policy_test</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UI Policy Not Visible</label>
+            <language>ja</language>
+            <name>x_869644_my_app_my_task</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-20 04:53:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>486eeaa3971d111099bff8b3f153af29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:53:18</sys_updated_on>
+            <value>ui_policy_not_visible</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>policy_test</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UI Policy Readonly</label>
+            <language>ja</language>
+            <name>x_869644_my_app_my_task</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-20 04:51:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0ffd26a3971d111099bff8b3f153afd6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:51:35</sys_updated_on>
+            <value>ui_policy_readonly</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>policy_test</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UI Policy RelatedList Visible</label>
+            <language>ja</language>
+            <name>x_869644_my_app_my_task</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-20 04:51:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4bfd66a3971d111099bff8b3f153af47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:51:35</sys_updated_on>
+            <value>ui_policy_relatedlist_visible</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>policy_test</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data Policy Mandatory</label>
+            <language>ja</language>
+            <name>x_869644_my_app_my_task</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-20 04:51:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7fd66a3971d111099bff8b3f153af48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:51:35</sys_updated_on>
+            <value>data_policy_mandatory</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>policy_test</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data Policy Not Visible</label>
+            <language>ja</language>
+            <name>x_869644_my_app_my_task</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-20 04:53:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>886eeaa3971d111099bff8b3f153af2a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-20 04:53:18</sys_updated_on>
+            <value>data_policy_not_visible</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

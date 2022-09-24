@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="DELETE">
+        <disabled>ignore</disabled>
+        <field>result</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-20 05:43:14</sys_created_on>
+        <sys_data_policy display_value="Data Policy Mandatory">80093e2b971d111099bff8b3f153af2b</sys_data_policy>
+        <sys_id>f2b97a6f971d111099bff8b3f153afa5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>result</sys_name>
+        <sys_package display_value="My App" source="x_869644_my_app">e012b2cb9749111099bff8b3f153afd4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">e012b2cb9749111099bff8b3f153afd4</sys_scope>
+        <sys_update_name>sys_data_policy_rule_f2b97a6f971d111099bff8b3f153afa5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-20 05:47:12</sys_updated_on>
+        <table>x_869644_my_app_my_task</table>
+    </sys_data_policy_rule>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My App">e012b2cb9749111099bff8b3f153afd4</application>
+        <file_path/>
+        <instance_id>840f05e3dbd18110e62f3feb689619e2</instance_id>
+        <instance_name>dev124151</instance_name>
+        <name>sys_data_policy_rule_f2b97a6f971d111099bff8b3f153afa5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule"><sys_data_policy_rule action="INSERT_OR_UPDATE"><disabled>ignore</disabled><field>result</field><mandatory>true</mandatory><sys_class_name>sys_data_policy_rule</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-20 05:43:14</sys_created_on><sys_data_policy display_value="Data Policy Mandatory">80093e2b971d111099bff8b3f153af2b</sys_data_policy><sys_id>f2b97a6f971d111099bff8b3f153afa5</sys_id><sys_mod_count>1</sys_mod_count><sys_name>result</sys_name><sys_package display_value="My App" source="x_869644_my_app">e012b2cb9749111099bff8b3f153afd4</sys_package><sys_policy/><sys_scope display_value="My App">e012b2cb9749111099bff8b3f153afd4</sys_scope><sys_update_name>sys_data_policy_rule_f2b97a6f971d111099bff8b3f153afa5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-20 05:47:12</sys_updated_on><table>x_869644_my_app_my_task</table></sys_data_policy_rule></record_update>]]></payload>
+        <payload_hash>1413343213</payload_hash>
+        <record_name>result</record_name>
+        <reverted_from/>
+        <source>6412b2cb9749111099bff8b3f153afd6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-20 05:47:12</sys_created_on>
+        <sys_id>bdba7aaf971d111099bff8b3f153afe8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182b9ca815a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-20 05:47:12</sys_updated_on>
+        <type>データポリシールール</type>
+        <update_guid>f5ba7aaf901d1110a964d77ecd1ac1e8</update_guid>
+        <update_guid_history>f5ba7aaf901d1110a964d77ecd1ac1e8:1413343213,23c9f22f3b1d1110e83e8e464f9c7ad5:441327461</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-20 05:51:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy_rule">sys_data_policy_rule</sys_db_object>
+        <sys_id>34097b9df361463888fb52b2d3c67484</sys_id>
+        <sys_metadata>f2b97a6f971d111099bff8b3f153afa5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>result</sys_name>
+        <sys_package display_value="My App" source="x_869644_my_app">e012b2cb9749111099bff8b3f153afd4</sys_package>
+        <sys_parent display_value="Data Policy Mandatory">80093e2b971d111099bff8b3f153af2b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="My App">e012b2cb9749111099bff8b3f153afd4</sys_scope>
+        <sys_scope_delete display_value="">4625b16b35d84232afbf3d6ff9787721</sys_scope_delete>
+        <sys_update_name>sys_data_policy_rule_f2b97a6f971d111099bff8b3f153afa5</sys_update_name>
+        <sys_update_version display_value="sys_data_policy_rule_f2b97a6f971d111099bff8b3f153afa5">bdba7aaf971d111099bff8b3f153afe8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-20 05:51:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="">ecb7c6599751111099bff8b3f153af70</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-13 02:17:59</sys_created_on>
+        <sys_id>a8b7c6599751111099bff8b3f153af71</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ecb7c6599751111099bff8b3f153af70</sys_name>
+        <sys_package display_value="My App" source="x_869644_my_app">e012b2cb9749111099bff8b3f153afd4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">e012b2cb9749111099bff8b3f153afd4</sys_scope>
+        <sys_update_name>sys_report_users_groups_a8b7c6599751111099bff8b3f153af71</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-13 02:17:59</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My App">e012b2cb9749111099bff8b3f153afd4</application>
+        <file_path/>
+        <instance_id>840f05e3dbd18110e62f3feb689619e2</instance_id>
+        <instance_name>dev124151</instance_name>
+        <name>sys_report_users_groups_a8b7c6599751111099bff8b3f153af71</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">ecb7c6599751111099bff8b3f153af70</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-13 02:17:59</sys_created_on><sys_id>a8b7c6599751111099bff8b3f153af71</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ecb7c6599751111099bff8b3f153af70</sys_name><sys_package display_value="My App" source="x_869644_my_app">e012b2cb9749111099bff8b3f153afd4</sys_package><sys_policy/><sys_scope display_value="My App">e012b2cb9749111099bff8b3f153afd4</sys_scope><sys_update_name>sys_report_users_groups_a8b7c6599751111099bff8b3f153af71</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-13 02:17:59</sys_updated_on><user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>599391354</payload_hash>
+        <record_name>ecb7c6599751111099bff8b3f153af70</record_name>
+        <reverted_from/>
+        <source>6412b2cb9749111099bff8b3f153afd6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-13 02:17:59</sys_created_on>
+        <sys_id>20b7c6599751111099bff8b3f153af74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18294fe72820000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-13 02:17:59</sys_updated_on>
+        <type>レポートユーザーおよびグループ</type>
+        <update_guid>28b7c659c6511110ec906f293d7a1273</update_guid>
+        <update_guid_history>28b7c659c6511110ec906f293d7a1273:599391354</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-13 02:23:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>2fb4b744d3c641c6958ec9ecd89cde64</sys_id>
+        <sys_metadata>a8b7c6599751111099bff8b3f153af71</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ecb7c6599751111099bff8b3f153af70</sys_name>
+        <sys_package display_value="My App" source="x_869644_my_app">e012b2cb9749111099bff8b3f153afd4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My App">e012b2cb9749111099bff8b3f153afd4</sys_scope>
+        <sys_scope_delete display_value="">4625b16b35d84232afbf3d6ff9787721</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_a8b7c6599751111099bff8b3f153af71</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_a8b7c6599751111099bff8b3f153af71">20b7c6599751111099bff8b3f153af74</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-13 02:23:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

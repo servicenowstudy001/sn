@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD6f751fe41006111020ba439aba242660</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>e012b2cb9749111099bff8b3f153afd4</scope_name>
+        <serialized_content>{"FlowDesigner:FD6f751fe41006111020ba439aba242660":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD6f751fe41006111020ba439aba242660.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"アクションステータス\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"7cb5e300-81fc-4441-9646-4f52f74f14f3\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD6f751fe41006111020ba439aba242660\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-17 06:49:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>23751fe49706111099bff8b3f153af61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD6f751fe41006111020ba439aba242660</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My App" source="x_869644_my_app">e012b2cb9749111099bff8b3f153afd4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">e012b2cb9749111099bff8b3f153afd4</sys_scope>
+        <sys_update_name>sys_complex_object_23751fe49706111099bff8b3f153af61</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-17 06:49:31</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen">
+    <sys_sg_browser_screen action="INSERT_OR_UPDATE">
+        <available_offline>true</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <external_browser>false</external_browser>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Building">106317c09735111099bff8b3f153af5c</icon>
+        <name>我的自定义画面</name>
+        <relative_url>false</relative_url>
+        <roles_override/>
+        <sys_class_name>sys_sg_browser_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-03 07:07:38</sys_created_on>
+        <sys_id>906317c09735111099bff8b3f153af5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>我的自定义画面</sys_name>
+        <sys_package display_value="My App" source="x_869644_my_app">e012b2cb9749111099bff8b3f153afd4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">e012b2cb9749111099bff8b3f153afd4</sys_scope>
+        <sys_update_name>sys_sg_browser_screen_906317c09735111099bff8b3f153af5d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-03 07:07:38</sys_updated_on>
+        <url>/pp?id=panda_page003&amp;sysparm_domain_restore=false&amp;sysparm_stack=no</url>
+    </sys_sg_browser_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=906317c09735111099bff8b3f153af5d"/>
+</record_update>

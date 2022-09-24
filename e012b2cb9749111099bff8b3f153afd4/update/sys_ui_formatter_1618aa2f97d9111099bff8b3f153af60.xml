@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>My Formatter.xml</formatter>
+        <name>My Formatter</name>
+        <seismic_component/>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-20 04:26:58</sys_created_on>
+        <sys_id>1618aa2f97d9111099bff8b3f153af60</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Formatter</sys_name>
+        <sys_package display_value="My App" source="x_869644_my_app">e012b2cb9749111099bff8b3f153afd4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">e012b2cb9749111099bff8b3f153afd4</sys_scope>
+        <sys_update_name>sys_ui_formatter_1618aa2f97d9111099bff8b3f153af60</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-20 04:26:58</sys_updated_on>
+        <table>x_869644_my_app_my_task</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+</record_update>

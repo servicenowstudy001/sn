@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_1" label="画面直接添加项目1" language="ja" table="x_869644_my_app_my_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_1</element>
+            <help/>
+            <hint/>
+            <label>画面直接添加项目1</label>
+            <language>ja</language>
+            <name>x_869644_my_app_my_task</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-13 06:47:46</sys_created_on>
+            <sys_id>1475cbd59755111099bff8b3f153af5e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>画面直接添加项目1</sys_name>
+            <sys_package display_value="My App" source="x_869644_my_app">e012b2cb9749111099bff8b3f153afd4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My App">e012b2cb9749111099bff8b3f153afd4</sys_scope>
+            <sys_update_name>sys_documentation_x_869644_my_app_my_task_u_1_ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-13 06:47:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

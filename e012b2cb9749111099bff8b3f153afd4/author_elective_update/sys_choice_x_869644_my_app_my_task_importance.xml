@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="importance" table="x_869644_my_app_my_task" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>importance</element>
+            <name>x_869644_my_app_my_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-06 06:07:46</sys_created_on>
+            <sys_id>1a297a839789111099bff8b3f153afa9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>importance</sys_name>
+            <sys_package display_value="My App" source="x_869644_my_app">e012b2cb9749111099bff8b3f153afd4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My App">e012b2cb9749111099bff8b3f153afd4</sys_scope>
+            <sys_update_name>sys_choice_x_869644_my_app_my_task_importance</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-06 06:07:46</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>importance</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Important</label>
+            <language>en</language>
+            <name>x_869644_my_app_my_task</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-06 06:07:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2297a839789111099bff8b3f153afa9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-06 06:07:46</sys_updated_on>
+            <value>not_important</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>importance</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Important</label>
+            <language>en</language>
+            <name>x_869644_my_app_my_task</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-06 06:07:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e297a839789111099bff8b3f153afaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-06 06:07:46</sys_updated_on>
+            <value>important</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>importance</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Very Important</label>
+            <language>en</language>
+            <name>x_869644_my_app_my_task</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-06 06:07:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da297a839789111099bff8b3f153afab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-06 06:07:46</sys_updated_on>
+            <value>very_important</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

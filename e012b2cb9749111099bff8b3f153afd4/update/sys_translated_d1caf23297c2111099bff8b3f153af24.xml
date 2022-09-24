@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element>mobile_title</element>
+        <id/>
+        <label>Read All</label>
+        <language>ja</language>
+        <name>sys_app_module</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-24 04:39:06</sys_created_on>
+        <sys_id>d1caf23297c2111099bff8b3f153af24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Read All</sys_name>
+        <sys_package display_value="My App" source="x_869644_my_app">e012b2cb9749111099bff8b3f153afd4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">e012b2cb9749111099bff8b3f153afd4</sys_scope>
+        <sys_update_name>sys_translated_d1caf23297c2111099bff8b3f153af24</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-24 04:39:06</sys_updated_on>
+        <value>Read All</value>
+    </sys_translated>
+</record_update>

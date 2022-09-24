@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question">
+    <sys_decision_question action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>722117a09706111099bff8b3f153af6c</answer>
+        <condition table="var__m_sys_decision_input_190f43209706111099bff8b3f153af1e">u_excellent&lt;90^EQ<item endquery="false" field="u_excellent" goto="false" newquery="false" operator="&lt;" or="false" value="90"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <decision_table display_value="私の意思決定">190f43209706111099bff8b3f153af1e</decision_table>
+        <default_answer>false</default_answer>
+        <input_table>var__m_sys_decision_input_190f43209706111099bff8b3f153af1e</input_table>
+        <label>良好</label>
+        <order>0</order>
+        <sys_class_name>sys_decision_question</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-17 06:27:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ed3057609706111099bff8b3f153af55</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>良好</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My App" source="x_869644_my_app">e012b2cb9749111099bff8b3f153afd4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">e012b2cb9749111099bff8b3f153afd4</sys_scope>
+        <sys_update_name>sys_decision_question_ed3057609706111099bff8b3f153af55</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-17 06:34:39</sys_updated_on>
+    </sys_decision_question>
+</record_update>
