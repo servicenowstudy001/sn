@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="e" label="E" language="en" table="x_869644_my_app_roletest">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>e</element>
+            <help/>
+            <hint/>
+            <label>E</label>
+            <language>en</language>
+            <name>x_869644_my_app_roletest</name>
+            <plural>Es</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-24 06:57:20</sys_created_on>
+            <sys_id>0e6a5b729746111099bff8b3f153af06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>E</sys_name>
+            <sys_package display_value="My App" source="x_869644_my_app">e012b2cb9749111099bff8b3f153afd4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My App">e012b2cb9749111099bff8b3f153afd4</sys_scope>
+            <sys_update_name>sys_documentation_x_869644_my_app_roletest_e_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-24 06:57:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
